@@ -1,25 +1,17 @@
-#### Machine Learning course about End-to-end solution
+### Machine Learning course about End-to-end solution
 
 In this training we will create an end-to-end solution, from data acquisition to the implementation of the Machine Learning model in a testing environment.
 
 We will use the following frameworks:
 
 - Pandas;
-
 - Numpy;
-
 - Matplotlib;
-
 - Seaborn;
-
 - Flask;
-
--Requests;
-
--Sklearn;
-
--Yellowbrick;
-
+- Requests;
+- Sklearn;
+- Yellowbrick;
 - Between others.
 
 How will our dynamics work?
